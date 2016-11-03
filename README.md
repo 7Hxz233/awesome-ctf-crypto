@@ -12,9 +12,11 @@ useful crypto resources for CTF competition.
 
 ## Online Tool
 
-+ Mono-alphabet Substitution Cipher
++ Discrete logarithm related problem
+  + [Discrete logarithm calculator](https://www.alpertron.com.ar/DILOG.HTM)
++ Mono-alphabet substitution cipher
   + [Substitution Solver - www.guballa.de](https://www.guballa.de/substitution-solver)
   + [quipqiup - cryptoquip and cryptogram solver](http://quipqiup.com/)
-+ Vigenère Cipher Cracker
++ Vigenère cipher cracker
   + [ViGENERE - ONLiNE ViGENERE ANALYSiS AND CRACKiNG](https://f00l.de/hacking/vigenere.php)
   + [Vigenere Solver](https://www.guballa.de/vigenere-solver)
