@@ -12,6 +12,8 @@ useful crypto resources for CTF competition.
 
 ## Online Tool
 
++ Big number factorize
+  + [factordb.com](https://factordb.com/)
 + Discrete logarithm related problem
   + [Discrete logarithm calculator](https://www.alpertron.com.ar/DILOG.HTM)
 + Mono-alphabet substitution cipher
