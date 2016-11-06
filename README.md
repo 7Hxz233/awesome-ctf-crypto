@@ -1,8 +1,9 @@
 # awesome-ctf-crypto
 useful crypto resources for CTF competition.
 
-## Blog
+## Blog / Academic pubs
 
++ [Prof. Dan Boneh's Publications](http://crypto.stanford.edu/~dabo/pubs/pubsbytopic.html)
 + [grocid.net](https://grocid.net/)
 
 ## Writeup Repo
