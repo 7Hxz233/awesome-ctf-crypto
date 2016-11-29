@@ -3,9 +3,10 @@ useful crypto resources for CTF competition.
 
 ## Blog / Academic pubs
 
++ [Attack on TLS](http://mitls.org/pages/attacks)
 + [Prof. Dan Boneh's Publications](http://crypto.stanford.edu/~dabo/pubs/pubsbytopic.html)
 + [grocid.net](https://grocid.net/)
-+ [Attack on TLS](http://mitls.org/pages/attacks)
++ [Hc1m1](http://0x48.pw/)
 
 ## Writeup Repo
 
