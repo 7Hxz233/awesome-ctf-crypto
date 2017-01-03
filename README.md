@@ -13,7 +13,7 @@ useful crypto resources for CTF competition.
 + [grocid/CTF: ☕️ Collection of CTF solutions](https://github.com/grocid/CTF)
 
 
-## Online Tool
+## Tools
 
 + Big number factorize
   + [factordb.com](https://factordb.com/)
@@ -25,3 +25,4 @@ useful crypto resources for CTF competition.
 + Vigenère cipher cracker
   + [ViGENERE - ONLiNE ViGENERE ANALYSiS AND CRACKiNG](https://f00l.de/hacking/vigenere.php)
   + [Vigenere Solver](https://www.guballa.de/vigenere-solver)
++ [Ganapati/RsaCtfTool - retreive private key from weak public key and/or uncipher data](https://github.com/Ganapati/RsaCtfTool)
