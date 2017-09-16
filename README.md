@@ -7,6 +7,7 @@ useful crypto resources for CTF competition.
 + [Prof. Dan Boneh's Publications](http://crypto.stanford.edu/~dabo/pubs/pubsbytopic.html)
 + [grocid.net](https://grocid.net/)
 + [Hc1m1](http://0x48.pw/)
++ [Cryptographic Engineering](https://blog.cryptographyengineering.com/)
 
 ## Writeup Repo
 
