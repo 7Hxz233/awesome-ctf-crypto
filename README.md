@@ -11,6 +11,7 @@ useful crypto resources for CTF competition.
 
 ## Writeup Repo
 
++ [ashutosh1206/Crypton: Most comprehensive crypto attacks explanation and implementation from CTFs for CTFs](https://github.com/ashutosh1206/Crypton)
 + [grocid/CTF: ☕️ Collection of CTF solutions](https://github.com/grocid/CTF)
 
 
