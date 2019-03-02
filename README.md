@@ -14,6 +14,9 @@ useful crypto resources for CTF competition.
 + [ashutosh1206/Crypton: Most comprehensive crypto attacks explanation and implementation from CTFs for CTFs](https://github.com/ashutosh1206/Crypton)
 + [grocid/CTF: ☕️ Collection of CTF solutions](https://github.com/grocid/CTF)
 
+## Playground
+
++ [The Cryptopals Crypto Challenges](https://cryptopals.com/)
 
 ## Tools
 
